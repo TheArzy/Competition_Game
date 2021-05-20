@@ -1,0 +1,7 @@
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_3_Competition_Game\test\bin\Debug\test.exe.config
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_3_Competition_Game\test\bin\Debug\test.exe
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_3_Competition_Game\test\bin\Debug\test.pdb
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_3_Competition_Game\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_3_Competition_Game\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_3_Competition_Game\test\obj\Debug\test.exe
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_3_Competition_Game\test\obj\Debug\test.pdb

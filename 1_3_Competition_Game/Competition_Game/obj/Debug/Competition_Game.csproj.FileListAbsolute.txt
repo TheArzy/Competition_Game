@@ -1,0 +1,14 @@
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_3_Competition_Game\Competition_Game\bin\Debug\Competition_Game.exe.config
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_3_Competition_Game\Competition_Game\bin\Debug\Competition_Game.exe
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_3_Competition_Game\Competition_Game\bin\Debug\Competition_Game.pdb
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_3_Competition_Game\Competition_Game\obj\Debug\Competition_Game.csprojAssemblyReference.cache
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_3_Competition_Game\Competition_Game\obj\Debug\Competition_Game.csproj.CoreCompileInputs.cache
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_3_Competition_Game\Competition_Game\obj\Debug\Competition_Game.exe
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_3_Competition_Game\Competition_Game\obj\Debug\Competition_Game.pdb
+Z:\DesktopU\Proects VS\ZZZаданияZZZ\1_3_Competition_Game\Competition_Game\bin\Debug\Competition_Game.exe.config
+Z:\DesktopU\Proects VS\ZZZаданияZZZ\1_3_Competition_Game\Competition_Game\bin\Debug\Competition_Game.exe
+Z:\DesktopU\Proects VS\ZZZаданияZZZ\1_3_Competition_Game\Competition_Game\bin\Debug\Competition_Game.pdb
+Z:\DesktopU\Proects VS\ZZZаданияZZZ\1_3_Competition_Game\Competition_Game\obj\Debug\Competition_Game.csprojAssemblyReference.cache
+Z:\DesktopU\Proects VS\ZZZаданияZZZ\1_3_Competition_Game\Competition_Game\obj\Debug\Competition_Game.csproj.CoreCompileInputs.cache
+Z:\DesktopU\Proects VS\ZZZаданияZZZ\1_3_Competition_Game\Competition_Game\obj\Debug\Competition_Game.exe
+Z:\DesktopU\Proects VS\ZZZаданияZZZ\1_3_Competition_Game\Competition_Game\obj\Debug\Competition_Game.pdb
